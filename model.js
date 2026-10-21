@@ -1,6 +1,6 @@
 const model = {
     app: {},
-    inputs: {},
+    viewState: {},
     data: {
         hall: { rows: 'ABCDEF', seatsPerRow: 8 },
         showings: [
